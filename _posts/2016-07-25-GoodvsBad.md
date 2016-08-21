@@ -10,6 +10,7 @@ twitter: rj_liu
 ---
 
 ## Data Visulization Examples: Good vs. Bad
+
 <h1>Good</h1>
 <h2><a href="https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/?%3Ftid%3D=sm_pg">The math of mass shootings</a></h2>
 
