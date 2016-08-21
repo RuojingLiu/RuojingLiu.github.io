@@ -11,8 +11,8 @@ twitter: rj_liu
 
 ## Data Visulization Examples: Good vs. Bad
 
-<h1>Good</h1>
-<h2><a href="https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/?%3Ftid%3D=sm_pg">The math of mass shootings</a></h2>
+Good
+<a href="https://www.washingtonpost.com/graphics/national/mass-shootings-in-america/?%3Ftid%3D=sm_pg">The math of mass shootings</a>
 
 This piece looks at numbers of the deadliest mass shootings in the U.S. from 1966, including victims, weapons and locations. 
 
@@ -25,8 +25,9 @@ The graph shows the reader which individual you’re looking at by making that s
 Showing each incident as a colored circle on a map with the size of the circles in accordance with the size of casualty is also an efficient way to summarize and visualize those shootings.
 
 The last part showing there’s no comprehensive data to calculate mass shootings incorporates the data needed – killed and injured – into very simple and easy-to-understand graphs. One can easily see the difference that there’re different numbers of red and grey columns in different databases for the same time period. And even for one infamous incident – Virginia Tech – casualties are calculated differently.
-<h1>Not Exactly</h1>
-<h2><a href="http://datanews.caixin.com/2016/home_en/">China’s Property Market Report – A Decade of Ups and Downs</a></h2>
+
+Not Exactly
+<a href="http://datanews.caixin.com/2016/home_en/">China’s Property Market Report – A Decade of Ups and Downs</a>
 
 First, the front page. It all looks very nice, with the panorama of a cartooned city as the background, and then it doesn’t take no effort to figure out how to scroll down. The grey moving button in the middle which I think is supposed to be a mouse is just distracting -- it takes one’s first instinct to know to use the wheel on a mouse to scroll down. And the page dots on the far right where you can click on to change the page are buried so perfectly into the background building.
 
