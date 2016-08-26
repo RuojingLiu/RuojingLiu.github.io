@@ -11,7 +11,7 @@ twitter: rj_liu
 
 ## Chicago Real Estate Projection
 
-Chicago's real estate market has been slowly but steadily recovering since the last economic crisis. According to the Home Value Index calculated by Zillow, Chicago's home value experienced a sharp drop starting from November 2007. During the next few years, it plunged from its peak of around $247,000 to the bottom of just $166,000 in April 2012.
+Chicago's real estate market has been slowly but steadily recovering since the last economic crisis. According to the Home Value Index calculated by Zillow, Chicago's home value experienced a sharp drop starting from November 2007. During the next few years, it plunged from its peak of around $247K to the bottom of just $166K in April 2012.
 
 As the market struggled a few months around that low point, home value in Chicago started on a trajectory of growth from October 2012. After running a regression, I found that the r^2 value of the linear trendline is above 0.9, making the trendline, to some extend, trustworthy.
 
